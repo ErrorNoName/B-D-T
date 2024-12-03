@@ -63,7 +63,7 @@ cd B-D-T
 Exécutez le script avec Node.js :
 
 ```bash
-node backup_lookup.js
+node backup.js
 ```
 
 ### Fonctionnement interactif
