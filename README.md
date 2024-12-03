@@ -1,4 +1,4 @@
-# B-D-T (Backup & Lookup Tool) 🛠️
+# B-D-T (B-D-T BackUpDoxTool Ezio/ErrorNoName) 🛠️
 
 ![License](https://img.shields.io/github/license/ErrorNoName/B-D-T?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/ErrorNoName/B-D-T?style=flat-square)
